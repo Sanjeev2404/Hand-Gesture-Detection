@@ -16,7 +16,7 @@ return "✌️ Peace/Victory"
 elif index_tip < thumb_tip:
 return "☝️ Pointing"
 else:
-return "👍 Thumbs Up (default)"
+return "👍 Thumbs Up  (default)"
 uploaded = files.upload()
 for fn in uploaded.keys():
 EXP.NO:8 MINI PROJECT: HAND GESTURE RECOGNITION
